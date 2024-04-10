@@ -17,7 +17,7 @@ They have planned this to prepare themselves to cater to the people's needs once
 
 ## General Information
 - Performing linear regression on Book Bikes data.
-- To identify the variables affecting the BookBikes revenues i.e. Which variables are significant in predicting the demand for shared bikes.
+- To identify the variables affecting the BoomBikes revenues i.e. Which variables are significant in predicting the demand for shared bikes.
 - 'day.csv' is the dataset that is used in this analysis.
 
 ## Conclusions
