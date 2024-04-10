@@ -17,42 +17,25 @@ They have planned this to prepare themselves to cater to the people's needs once
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Performing linear regression on Book Bikes data
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Performing linear regression on Book Bikes data.
+- To identify the variables affecting the BookBikes revenues i.e. Which variables are significant in predicting the demand for shared bikes.
+- 'day.csv' is the dataset that is used in this analysis.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- With increase in time period, the popularity of Boom bikes is increasing and hence the no. of bookings.
+- More no. of bookings are happening in the month of September.
+- More bookings are happening on a clear and partly cloudy days.
+- Bookings are less on holidays.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- statsmodels
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@eswar-janjanam] - feel free to contact me!
